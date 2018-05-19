@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="DomainObject1_ListView">
+			<Variants>
+				<Variant ID="DomainObject1_ListView_Variant1" ViewID="DomainObject1_ListView_Variant1" Caption="DomainObject1_ListView_Variant1" IsNewNode="True" />
+			</Variants>
+		</ListView>
+		<ListView ID="DomainObject1_ListView_Variant1" ClassName="WinSolution.Module.DomainObject1" IsGroupPanelVisible="False" AutoExpandAllGroups="False" IsFilterPanelVisible="False" IsFooterVisible="True" IsActiveFilterEnabled="True" DetailViewID="DomainObject1_DetailView" IsNewNode="True">
+			<Columns IsNewNode="True">
+				<ColumnInfo PropertyName="FirstName" Index="0" Width="70" IsNewNode="True" />
+			</Columns>
+			<SplitLayout Direction="Horizontal" IsNewNode="True" />
+			<Variants Current="Default" IsNewNode="True">
+				<Variant ID="Default" Caption="Default" ViewID="DomainObject1_ListView" IsNewNode="True" />
+			</Variants>
+		</ListView>
+	</Views>
+</Application>
