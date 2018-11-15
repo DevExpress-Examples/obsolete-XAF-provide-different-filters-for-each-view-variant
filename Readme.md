@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* **[MyDynamicListViewVariantFilterController.cs](./CS/WinSolution.Module.Win/MyDynamicListViewVariantFilterController.cs) (VB: [MyDynamicListViewVariantFilterController.vb](./VB/WinSolution.Module.Win/MyDynamicListViewVariantFilterController.vb))**
+* [DomainObject1.cs](./CS/WinSolution.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution.Module/DomainObject1.vb))
+<!-- default file list end -->
 # OBSOLETE - How to provide different filters for each view variant.
 
 
